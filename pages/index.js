@@ -26,6 +26,11 @@ export default function Home() {
       <br />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <Container className='p-5'>
         <Row>
           <h1>Welcome to Cosmetic Dental Clinic</h1>
@@ -51,15 +56,7 @@ export default function Home() {
           </Link>
         </Button>
       </Container>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <Container>
+      <Container className='p-5'>
         <Row>
           <Col lg={6}>
             <h1>About Dr. John Liu</h1>

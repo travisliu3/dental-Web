@@ -53,294 +53,226 @@ export default function Images() {
             <br />
             <br />
             <Row className='gy-4'>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
+                </Col>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
+                </Col>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
 
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
-                <Col lg={6} sm={12} md={12}>
-                    <Row>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                        <Col lg={6} sm={6} md={6}>
-                            <img
-                                src={`https://www.ironwooddental.com/hubfs/Blog_images/cosmetic_dentistry-n4o2dplupts9ys28zlmqjmn6y3c3h7zy133nsv04oo.jpg`}
-                                style={{
-                                    zIndex: -1,
-                                    width: '100%',
-                                    height: '30vh'
-                                }}
-                            />
-                        </Col>
-                    </Row>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
+                </Col>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
+                </Col>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
+                </Col>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
+                </Col>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
+                </Col>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
+                </Col>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
+                </Col>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
+                </Col>
+                <Col lg={6} sm={12} md={6}>
+                    <img
+                        src={`https://buildinggreatsmiles.com/images/crowns-before-after.jpg`}
+                        style={{
+                            zIndex: -1,
+                            width: '100%',
+                            height: '30vh'
+                        }}
+                    />
                 </Col>
             </Row>
         </>

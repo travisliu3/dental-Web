@@ -65,8 +65,9 @@ export default function Home() {
           <Col lg={6}>
             <Image
               src={'/../public/favicon.ico'}
-              width={400}
-              height={400}
+              layout='responsive'
+              width={500}
+              height={500}
             />
           </Col>
         </Row>
